@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1706109550 source:c:\users\jason zoh\documents\project image\project\main.cpp
+	"project_I.h"
+	<iostream>
+	<string>
+	<vector>
+
+1705011041 c:\users\jason zoh\documents\project image\project\seance1.h
+	<iostream>
+	<string>
+	<vector>
+	<cmath>
+
+1705011000 source:c:\users\jason zoh\documents\project image\project\seance1.cpp
+	"seance1.h"
+	<cmath>
+	<iostream>
+	<fstream>
+	<stdexcept>
+	<string>
+	<vector>
+
+1706109551 source:c:\users\jason zoh\documents\project image\project\maintest.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<cmath>
+
+1706130198 c:\users\jason zoh\documents\project image\project\project_i.h
+	<iostream>
+	<string>
+	<vector>
+	<cmath>
+
+1706109551 source:c:\users\jason zoh\documents\project image\project\project_i.cpp
+	"project_I.h"
+	<cmath>
+	<iostream>
+	<fstream>
+	<stdexcept>
+	<string>
+	<vector>
+
+1706088120 source:c:\users\kzoh\documents\project\main.cpp
+	"project_I.h"
+	<iostream>
+	<string>
+	<vector>
+
+1705561396 c:\users\kzoh\documents\project\project_i.h
+	<iostream>
+	<string>
+	<vector>
+	<cmath>
+
+1705571238 source:c:\users\kzoh\documents\project\maintest.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<cmath>
+
+1706090449 source:c:\users\kzoh\documents\project\project_i.cpp
+	"project_I.h"
+	<cmath>
+	<iostream>
+	<fstream>
+	<stdexcept>
+	<string>
+	<vector>
+
